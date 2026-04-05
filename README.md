@@ -1,2 +1,3 @@
-# formatted-to-markdown
-Paste formatted text in, get markdown out
+paste formatted text in, get markdown out
+
+https://remark.jefflunt.com
